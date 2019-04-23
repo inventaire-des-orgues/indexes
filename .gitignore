@@ -1,0 +1,11 @@
+# Old / Sav
+_old/
+save*/
+
+# Markdown
+*.md.backup
+
+# Excel
+*.xls
+*.xlsm
+
