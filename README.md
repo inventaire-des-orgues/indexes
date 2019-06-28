@@ -9,3 +9,8 @@ Un fichier d'index décrit, pour chaque orgue à tuyau de France accessible au p
 
 - la localisation de l'instrument
 - une description très sommaire de l'instrument
+
+## Documentation des champs et attributs
+
+https://git.inventaire-des-orgues.fr/Gwilherm/python/src/master/README.md
+
