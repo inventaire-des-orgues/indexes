@@ -1,14 +1,34 @@
 # Inventaire national des orgues
 
+## Le projet
+
 https://inventaire-des-orgues.fr/
 
 contact@inventaire-des-orgues.fr
 
-Ce dépôt contient le fichier d'index de l'iventaire national des orgues.
+## Indexes
+
+Ce dépôt contient les fichiers d'index de l'iventaire national des orgues.
 Un fichier d'index décrit, pour chaque orgue à tuyau de France accessible au public :
 
 - la localisation de l'instrument
 - une description très sommaire de l'instrument
+
+Ces fichiers sont sous licence OUVERTE 2.0
+
+## Interfaces web
+
+### Page web
+
+https://github.com/inventaire-des-orgues/organslist
+
+https://liste.inventaire-des-orgues.fr/
+
+### API
+
+https://github.com/inventaire-des-orgues/api
+
+https://api.inventaire-des-orgues.fr/orgues
 
 ## Structure de l'index
 
