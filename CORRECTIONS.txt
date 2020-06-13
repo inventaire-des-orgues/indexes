@@ -1,0 +1,298 @@
+# CORRECTIONS
+
+# FR-84138-VALRE-NDNAZA-X
+Valréas est dans le Vaucluse, mais présent aussi dans inventaire Drôme
+Valréas,église Notre-Dame-de-Nazareth,Notre-Dame-de-Nazareth [église],NOM_EDIFICE_STANDARD,NDNAZA,Vaucluse,84,Provence-Alpes-Côte d'Azur,84138,Valréas,,,,Inventaire Drôme,64-65,,,,,,,,,,,,,,,,,,,,,,"PM84001160,PM84000724,PM84000616",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+# FR-75056-PARIS-SACRE--T
+Commune;Edifice;Edifice_standard;Info_edifice;Codification_edifice;Nom_departement;Code_depertament;Nom_region;Code_insee;Commune_insee;Ancienne_commune;Adresse;Désignation;Livre;Pages_pdf;Pages_livre;Pages_livre_complement;Commentaire;Log;Site_ref;Latitude;Longitude;OSM_type;OSM_id;OSM_latitude;OSM_longitude;Orgbase_manu;Orgbase_commune;Orgbase_auto;Orgbase_desc;Orgbase_edifice;Orgbase_facteurs;Orgbase_minicompo;Orgbase_edifice_standard;Orgbase_edifice_log;Orgbase_commune_insee;Reference_palissy;denomination_palissy;Edifice_palissy;protection_palissy;Résumé;Propriétaire;Organisme;Lien de référence;Polyphone;Etat;Elévation;Buffet;Console;Commentaire admin;Diapason;Sommiers;Soufflerie;Transmission notes;Transmission commentaire;Tirage jeux;Tirage commentaire;Commentaire tuyauterie;Evènements;Accessoires;Claviers;Images;Sources;id;user;url
+Gentilly;église du Sacré-Cœur;du Sacré-Cœur (De Gentilly) [église];NOM_EDIFICE_STANDARD;SACRE-;Paris;75;Île-de-France;75056;Paris;;14ème arrondissement;G.O.;Orgues de l'Ile-de-France -- tome 5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Affectée aux Portuguais de Paris, mais pour de vrai à Gentilly. Présente dans l'inventaire de Paris.
+
+# FR-75056-PARIS-STPAUL-T
+église Saint-Paul Saint-Louis
+FR-75056-PARIS-STPAUL-T;Paris;église Luthérienne Saint-Paul de Montmartre
+
+# 'Saint-Just-Saint-Pasteur'
+
+# 'Saint-Martin-Notre-Dame et Saint-André'
+
+# 'Saint-Jean-Marie Vianney (Basilique Sainte-Philomène, Basilique Saint-Sixte)'
+
+# FR-67539-W.BAN-STNICO-X
+A cause d'une fusion de commune.
+
+# FR-75056-PARIS-AMERIC-T
+Cathédrale et église américaine...
+
+# FR-49027-B.MAU-NDAME.-X
+Communes.
+Bégrolles et Beaupréau
+
+# FR-49261-G.LOI-NDAMEV-X
+Communes
+Chenehutte et Gennes
+
+# FR-38544-VIENN-STANDR-X
+Saint-André-le-Haut
+Saint-André-le-Bas
+
+# FR-57623-SSQUI-STQUIR-X
+Communes
+Lettenbach et StQuirin
+
+# FR-59328-LAMBE-STCALI-X 
+Semble vrai doublon orgelbase
+
+# FR-68320-SPECH-STAUGU-X
+Communes
+Le Haut -- Le bas.
+
+# FR-71270-MACON-STVINC-X
+Cathédrale et chapelle
+
+# FR-79191-NIORT-STHILA-X
+Collège et église
+
+# FR-68175-LAPOU-LAPOUT-X
+HACHIMETTE
+
+# MUTLI SAINT
+Saint-Abdon et Saint-Sennen
+Saint-Alain et Sainte-Candide
+Saint-Amour & Saint-Victor
+Saint-André Sainte-Hélène
+Saint-Antoine-et-Saint-Sulpice
+Saint-Calixte et Saint Evrard
+Saint-Côme et Saint-Damien
+Saint-Crépin-et-Saint-Crépinien
+Saint-Cyprien-et-Saint-Jean-Baptiste
+Saint-Desle-et-Saint-Bénigne
+Saint-Elophe & Saint-Christophe
+Saint-Étienne Saint-Vincent
+Saint-Étienne-et-Saint-Genou
+Saint-Étienne-Saint-Denis
+Saint-Eugène & Sainte-Cécile
+Saint-Ferréol et Saint-Ferjeux
+Saint-Sébastien et Saint-Quirin
+Saint-Georges et Saint-Coeur
+Saint-Georges et Saint-Matthieu
+Saint-Germain-Saint-Martin
+Saint-Gervais & Saint-Protais
+Saint-Hippolyte & Sainte-Thérèse-de-l'Enfant-Jésus
+Saint-Rémy Saint-Avoir
+Saint-Jacques et Saint-Christophe
+Saint-Jacques-le-Majeur et Saint-Christophe
+Saint-Jean - Saint-Louis
+Saint-Jean et Saint-Etienne
+Saint-Salomon et Saint-Grégoire
+Saint-Joseph et Saint-Pierre
+Saint-Joseph-et-Saint-Louis
+Saint-Jules & Saint-Victor
+Saint-Julien et Sainte-Basilisse
+Saint-Julien-et-Saint-Vincent-de-Paul
+Saint-Just et Saint-Pasteur
+Saint-Leu & Saint-Gilles
+Saint-Louis et Sainte-Thérèse
+Saint-Luczot-et-Saint-Nicolas
+Saint-Martin et Saint-Lambert
+Saint-Martin Saint-Laurent
+Saint-Maurice et Saint-Georges
+Saint-Maurice et Saint-Philippe
+Saint-Méen-et-Sainte-Croix
+Saint-Nicolas Saint-Marc
+Saint-Nicolas-Saint-Lomer
+Saint-Paul-Saint-François-Xavier
+Saint-Philippe et Saint-Jacques
+Saint-Pierre - Sainte-Barbe
+Saint-Simon et Saint-Jude
+Saint-Pierre et Saint-Germain
+Saint-Pierre et Saint-Laurent
+Saint-Pierre-et-Saint-Paul
+Saint-Vincent & Saint-Fiacre
+Saint-Pierre-Saint-Sylvestre
+Saint-Prix et Saint-Cot
+
+Saint-Jean-Marie Vianney (Basilique Sainte-Philomène, Basilique Saint-Sixte)
+Saint-Jacques (Abbaye de Chanoines Réguliers de Saint Augustin Saint-Rémy)
+Saint-Martin-Notre-Dame et Saint-André
+Saint-François-Xavier (Saint-Joseph)
+Saint-Pierre & Saint-Paul (Église Notre-Dame)
+
+
+inventaire - ERROR - Codification redondante : FR-67067-BRUMA-CENTRE-X Brumath CHAPELLE PROTESTANTE DU CENTRE HOSPITALIER SPECIALisé
+inventaire - ERROR - Codification redondante : FR-67133-ESCHB-GRAUFT-X Eschbourg église protestante de Graufthal
+inventaire - ERROR - Codification redondante : FR-67263-LEMBA-PROTES-X Lembach église protestante
+inventaire - ERROR - Codification redondante : FR-67368-OTTRO-STODIL-X Ottrott église Sainte-ODILE DU MONT Sainte-ODILE
+inventaire - ERROR - Codification redondante : FR-67372-V.MOD-SAINTS-X Val de Moder église SAINTS PIERRE ET PAUL
+inventaire - ERROR - Codification redondante : FR-67434-S.UNI-NEU-SA-X Sarre-Union église REFORMEE DE NEU-SARREWERDEN
+inventaire - ERROR - Codification redondante : FR-67482-STRAS-BON PA-X Strasbourg église du Bon Pasteur
+inventaire - ERROR - Codification redondante : FR-67482-STRAS-STPIER-X Strasbourg église protestante Saint-PIERRE-LE-VIEUX
+inventaire - ERROR - Codification redondante : FR-67482-STRAS-STPAUL-X Strasbourg église protestante Saint-PAUL DE KOENIGSHOFFEN chapelle
+inventaire - ERROR - Codification redondante : FR-67482-STRAS-STPAUL-X Strasbourg église REFORMEE Saint-PAUL
+inventaire - ERROR - Codification redondante : FR-67482-STRAS-STJEAN-X Strasbourg église Sainte-Jeanne d'Arc
+inventaire - ERROR - Codification redondante : FR-67482-STRAS-STJEAN-X Strasbourg église Saint-JEAN
+inventaire - ERROR - Codification redondante : FR-67482-STRAS-STLOUI-X Strasbourg église Saint-LOUIS DE LA ROBERTSAU
+inventaire - ERROR - Codification redondante : FR-67482-STRAS-STPIER-X Strasbourg église Saint-PIERRE-LE-JEUNE CATHOLIQUE
+inventaire - ERROR - Codification redondante : FR-67482-STRAS-STPIER-X Strasbourg église Saint-PIERRE-LE-VIEUX CATHOLIQUE
+inventaire - ERROR - Codification redondante : FR-67482-STRAS-MAISON-X Strasbourg MAISON DE RETRAITE Saint-JOSEPH
+inventaire - ERROR - Codification redondante : FR-67525-WESTH-STMART-X Westhoffen église protestante Saint-MARTIN
+inventaire - ERROR - Codification redondante : FR-13055-MARSE-NDGARD-C Marseille basilique Notre-Dame de la Garde
+inventaire - ERROR - Codification redondante : FR-13055-MARSE-STTHER-X Marseille église Sainte-Thérèse de l'Enfant-Jésus
+inventaire - ERROR - Codification redondante : FR-17300-ROCHE-STJEAN-X La Rochelle église Sainte-Jeanne-d'Arc de Fétilly
+inventaire - ERROR - Codification redondante : FR-21231-DIJON--------X Dijon temple protestant
+inventaire - ERROR - Codification redondante : FR-79191-NIORT-STHILA-X Niort église Saint-Hilaire
+inventaire - ERROR - Codification redondante : FR-25056-BESAN--------C Besançon séminaire
+inventaire - ERROR - Codification redondante : FR-25056-BESAN--------X Besançon synagogue
+inventaire - ERROR - Codification redondante : FR-25403-MTLEB-MINIME-X Montlebon couvent de minimes, actuellement mairie, demeure, presbytère, église paroissiale de l'Assomption
+inventaire - ERROR - Codification redondante : FR-33063-BORDE-COLLEG-Z Bordeaux Chapelle du collège Saint-Joseph de Tivoli
+inventaire - ERROR - Codification redondante : FR-33063-BORDE-GRAND -X Bordeaux Grand Théâtre
+inventaire - ERROR - Codification redondante : FR-31555-TOULO-STFRAN-X Toulouse église Saint-François de Paule
+inventaire - ERROR - Codification redondante : FR-52448-SSDIZ-STMART-X Saint-Dizier église Saint-Martin (quartier de la Noue)
+inventaire - ERROR - Codification redondante : FR-70006-A.LYA-STMAUR-X Aillevillers-et-Lyaumont église Saint-Maurice
+inventaire - ERROR - Codification redondante : FR-74010-ANNEC-STJOSE-X Annecy basilique Saint-JOSEPH DES FINS
+inventaire - ERROR - Codification redondante : FR-68066-COLMA-STMART-X Colmar COLLEGIALE SainT-MARTIN
+inventaire - ERROR - Codification redondante : FR-68175-LAPOU-LAPOUT-X Lapoutroie église CATHOLiQUE DE LAPOUTROIE HACHIMETTE
+inventaire - ERROR - Codification redondante : FR-68177-LAUTE-STJEAN-X Lautenbach église Saint-JEAN-BAPTISTE
+inventaire - ERROR - Codification redondante : FR-68224-MULHO-EVANGE-X Mulhouse église évangelique méthodiste
+inventaire - ERROR - Codification redondante : FR-68224-MULHO-MAISON-X Mulhouse Maison de retraite
+inventaire - ERROR - Codification redondante : FR-68224-MULHO-STJEAN-X Mulhouse église Saint-Jeanne d’Arc
+inventaire - ERROR - Codification redondante : FR-68271-RIEDI-NDREDE-X Riedisheim église NOTRE-DAME (COUVENT DES REDEMPTORISTES)
+inventaire - ERROR - Codification redondante : FR-68287-ROUFF-CENTRE-X Rouffach CHAPELLE PROTESTANTE DU CENTRE HOSPITALIER SPECIALISé
+inventaire - ERROR - Codification redondante : FR-68320-SPECH-STAUGU-X Spechbach église Saint-AUGUSTIN
+inventaire - ERROR - Codification redondante : FR-68334-THANN-STTHIE-X Thann église Saint-THIéBAUT
+inventaire - ERROR - Codification redondante : FR-68375-WITTE-STMICH-X Wittelsheim Église Saint-Michel
+inventaire - ERROR - Codification redondante : FR-34172-MTPEL-COLLEG-X Montpellier Chapelle du collège privé Saint-Roch
+inventaire - ERROR - Codification redondante : FR-34172-MTPEL--------X Montpellier Conservatoire National de Région
+inventaire - ERROR - Codification redondante : FR-64024-ANGLE-AUDITO-X Anglet Auditorium San Joan, Orgue Napolitan
+inventaire - ERROR - Codification redondante : FR-35238-RENNE-PRIVE -X Rennes lycée privé Saint-Vincent-La-Providence
+inventaire - ERROR - Codification redondante : FR-37276-VLEDO-GRANGE-X Villedômer grange de la Besnardière
+inventaire - ERROR - Codification redondante : FR-38191-HUEZZ-NDNEIG-X Huez église Notre-Dame-des-Neiges
+inventaire - ERROR - Codification redondante : FR-44213-LOIRE-STPIER-X Loireauxence église Saint-Pierre
+inventaire - ERROR - Codification redondante : FR-45234-ORLEA-STMARC-T Orléans église Saint-Marceau
+inventaire - ERROR - Codification redondante : FR-45234-ORLEA-STMARC-C Orléans église Saint-Marceau
+inventaire - ERROR - Codification redondante : FR-49023-B.MAU-NDAMEV-Z Jallais église Notre-Dame
+inventaire - ERROR - Codification redondante : FR-49261-G.LOI-NDAMEV-X Gennes-Val-de-Loire église Notre-Dame
+inventaire - ERROR - Codification redondante : FR-49092-C.ANJ-STPIER-Z Valanjou église Saint-Pierre
+inventaire - ERROR - Codification redondante : FR-51454-REIMS-STJOSE-X Reims lycée Saint-Joseph
+inventaire - ERROR - Codification redondante : FR-51454-REIMS--------X Reims Synagogue
+inventaire - ERROR - Codification redondante : FR-51454-REIMS--------X Reims temple protestant
+inventaire - ERROR - Codification redondante : FR-54395-NANCY--------X Nancy Temple protestant
+inventaire - ERROR - Codification redondante : FR-55545-VERDU-STJEAN-X Verdun église Saint-Jean-Baptiste
+inventaire - ERROR - Codification redondante : FR-57463-METZZ--------Z Metz conservatoire national de région
+inventaire - ERROR - Codification redondante : FR-57463-METZZ--------Z Metz conservatoire national de région
+inventaire - ERROR - Codification redondante : FR-57463-METZZ-HOPITA-X Metz hôpital Saint-Nicolas
+inventaire - ERROR - Codification redondante : FR-57463-METZZ-STMART-X Metz église Saint-Martin
+inventaire - ERROR - Codification redondante : FR-57463-METZZ-STVINC-X Metz église Saint-Vincent-de-Paul
+inventaire - ERROR - Codification redondante : FR-57487-M.MET-STPIER-X Moulins-lès-Metz église Saint-Pierre-ès-Liens
+inventaire - ERROR - Codification redondante : FR-57502-N.BOU-STANNE-X Neunkirchen-lès-Bouzonville église Sainte-Anne
+inventaire - ERROR - Codification redondante : FR-57534-PELTR-SOEURS-X Peltre sœurs de la Providence (salle à manger)
+inventaire - ERROR - Codification redondante : FR-57613-SSBAS-DIVINE-X Saint-Jean-de-Bassel couvent de la divine Providence (petite chapelle)
+inventaire - ERROR - Codification redondante : FR-57623-SSQUI-STQUIR-X Saint-Quirin église Saint-Quirin
+inventaire - ERROR - Codification redondante : FR-60250-FOUQU-STLUCI-Z Fouquenies église Saint-Lucien
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-SOEURS-T Paris Chapelle des Sœurs du Bon-Secours de Paris
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-SOEURS-T Paris Chapelle des Sœurs du Saint-Enfant Jésus
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-COLLEG-T Paris Chapelle du Collège Saint-Louis de Gonzague
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-LYCEE -T Paris Chapelle du Lycée Henri IV
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-LYCEE -T Paris Chapelle du lycée Jacques Decour
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-NATION-Z Paris Conservatoire National Supérieur
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-MISSIO-T Paris église de la Mission Espagnole
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-EVANGE-T Paris église évangelique baptiste
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-EVANGE-T Paris église évangelique baptiste
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-EVANGE-T Paris église évangelique luthérienne de la Rédemption
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-EVANGE-T Paris église évangelique luthérienne du Bon Secours
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-EVANGE-T Paris église évangelique luthérienne Saint-Jean
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-NDESPE-T Paris église Notre-Dame d'Espérance
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-NDSALE-T Paris église Notre-Dame de la Salette
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-NDTRAV-Z Paris église Notre-Dame du Travail
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STESPR-T Paris église Réformée du Saint-Esprit
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STMARI-T Paris église Sainte-Marie des Batignolles
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STFRAN-T Paris église Saint-François de Sales Ancienne église
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STFRAN-T Paris église Saint-François de Sales Nouvelle église
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STFRAN-T Paris église Saint-François-Xavier
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STGEOR-T Paris église Saint-Georges
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STGERM-T Paris église Saint-Germain des Prés
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STGERM-T Paris église Saint-Germain l'Auxerrois
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STJEAN-T Paris église Saint-Jean Bosco
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STJEAN-T Paris église Saint-Jean de Montmartre
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STJEAN-T Paris église Saint-Jean-Baptiste de Belleville
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STJEAN-T Paris église Saint-Jean-Baptiste de Grenelle
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STJEAN-T Paris église Saint-Jean-Baptiste de la Salle
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STJOSE-T Paris église Saint-Joseph des Artisans
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STJOSE-T Paris église Saint-Joseph des Carmes
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STJOSE-T Paris église Saint-Joseph des Épinettes
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STLOUI-T Paris église Saint-Louis de la Salpétrière
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STLOUI-T Paris église Saint-Louis des Invalides
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STLOUI-T Paris église Saint-Louis en File
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STMARC-T Paris église Saint-Marcel
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STMICH-T Paris église Saint-Michæl's
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STMICH-T Paris église Saint-Michel des Batignolles
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STNICO-T Paris église Saint-Nicolas du Chardonnet
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STNICO-C Paris église Saint-Nicolas du Chardonnet
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STPIER-T Paris église Saint-Pierre du Gros Caillou (ancienne)
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STPIER-T Paris église Saint-Pierre du Gros Caillou (neuve)
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STPIER-T Paris église Saint-Pierre du Petit Montrouge
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STPIER-T Paris église Saint-Pierre de Chaillot
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-STPIER-C Paris église Saint-Pierre de Chaillot
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-NATION-Z Paris Institut National des Jeunes Aveugles
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-NATION-Z Paris Institut National des Jeunes Aveugles
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-NATION-Z Paris Institut National des Jeunes Aveugles
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-MAISON-Z Paris Maison de Radio-France
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-NATION-Z Paris Musée National des Techniques (CNAM)
+inventaire - ERROR - Codification redondante : FR-75056-PARIS--------T Paris Synagogue
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-CITE D-T Paris Cité de la musique (conservatoire national supérieur de musique et de danse, salle d'orgue)
+inventaire - ERROR - Codification redondante : FR-75056-PARIS-CITE D-T Paris Cité de la musique (philharmonie de Paris)
+inventaire - ERROR - Codification redondante : FR-62041-ARRAS-MAISON-X Arras maison diocésaine
+inventaire - ERROR - Codification redondante : FR-62765-SSOME-ET LYC-X Saint-Omer collège et lycée Notre-Dame-de-Sion
+inventaire - ERROR - Codification redondante : FR-69123-LYONN-HOPITA-X Lyon Chapelle de l'Hôpital Militaire Desgenettes
+inventaire - ERROR - Codification redondante : FR-69123-LYONN-HOPITA-X Lyon Chapelle de l'Hôpital Saint-Jean-de-Dieu
+inventaire - ERROR - Codification redondante : FR-69123-LYONN-HOPITA-X Lyon Chapelle de l'Hôpital Saint-Luc
+inventaire - ERROR - Codification redondante : FR-69123-LYONN-INSTIT-X Lyon Chapelle de l'Institution du Sacré-Cœur
+inventaire - ERROR - Codification redondante : FR-69123-LYONN-CLINIQ-X Lyon Chapelle de la Clinique Saint-Vincent-de-Paul
+inventaire - ERROR - Codification redondante : FR-69123-LYONN-LYCEE -X Lyon Chapelle du Lycée Chevreul
+inventaire - ERROR - Codification redondante : FR-69123-LYONN-ANNONC-X Lyon église de l'Annonciation
+inventaire - ERROR - Codification redondante : FR-69123-LYONN-STJEAN-X Lyon église Saint-Jean-Apôtre
+inventaire - ERROR - Codification redondante : FR-69123-LYONN-STJEAN-X Lyon Primatiale Saint-Jean-Baptiste (Grand Orgue)
+inventaire - ERROR - Codification redondante : FR-69123-LYONN-STJEAN-X Lyon Primatiale Saint-Jean-Baptiste (Orgue de Choeur)
+inventaire - ERROR - Codification redondante : FR-69123-LYONN-STJEAN-X Lyon Primatiale Saint-Jean-Baptiste (Positif)
+inventaire - ERROR - Codification redondante : FR-71014-AUTUN-INSTIT-X Autun chapelle de l'Institution Saint-Lazare
+inventaire - ERROR - Codification redondante : FR-71270-MACON-STVINC-X Mâcon chapelle Saint-Vincent-de-Paul
+inventaire - ERROR - Codification redondante : FR-72181-MANSS-NDCROI-X Le Mans Notre Dame de Sainte-croix
+inventaire - ERROR - Codification redondante : FR-77186-FTAIN-CHATEA-X Fontainebleau château : Quartier Henri IV-salle C.M. Widor
+inventaire - ERROR - Codification redondante : FR-77186-FTAIN-CHATEA-X Fontainebleau château : Quartier Henri IV-salle M. Dupré
+inventaire - ERROR - Codification redondante : FR-77186-FTAIN-CHATEA-X Fontainebleau château : Salle du Jeu de Paume
+inventaire - ERROR - Codification redondante : FR-77284-MEAUX-STETIE-C Meaux Cathédrale Saint-Étienne
+inventaire - ERROR - Codification redondante : FR-76351-HAVRE--------X Le Havre conservatoire
+inventaire - ERROR - Codification redondante : FR-76540-ROUEN-CNR SA-X Rouen CNR Salle Marcel Dupré
+inventaire - ERROR - Codification redondante : FR-83129-S.PLA-STPIER-X Six-Fours-les-Plages église Saint-Pierre
+inventaire - ERROR - Codification redondante : FR-83137-TOULO-STJEAN-X Toulon église Saint-Jean-Bosco
+inventaire - ERROR - Codification redondante : FR-84007-AVIGN-COLLEG-X Avignon chapelle du collège Saint-Jean-Baptiste-de-la-Salle
+inventaire - ERROR - Codification redondante : FR-84031-CARPE-STSIFF-Z Carpentras cathédrale Saint-Siffrein
+inventaire - ERROR - Codification redondante : FR-84087-ORANG-NDAMEV-X Orange cathédrale Notre-Dame
+inventaire - ERROR - Codification redondante : FR-85065-C.PAI-CONGRE-X Chavagnes-en-Paillers Chapelle de la congrégation des Ursulines de Jésus
+inventaire - ERROR - Codification redondante : FR-86194-POITI-DAMES -X Poitiers Communauté des Dames de la Grand'Maison
+inventaire - ERROR - Codification redondante : FR-78646-VERSA-CHATEA-X Versailles Château Orgue du Dauphin
+inventaire - ERROR - Codification redondante : FR-78646-VERSA-STJEAN-X Versailles église Sainte-Jeanne-d'Arc
+inventaire - ERROR - Codification redondante : FR-80021-AMIEN--------X Amiens Temple Protestant
+inventaire - ERROR - Codification redondante : FR-49007-ANGER-SOEURS-X Angers Soeurs Bénédictines du Calvaire, Chapelle
+inventaire - ERROR - Codification redondante : FR-84007-AVIGN-JEUNES-X Avignon Séminaire des Jeunes, Chapelle
+inventaire - ERROR - Codification redondante : FR-92007-BAGNE-STMONI-X Bagneux église Sainte-Monique
+inventaire - ERROR - Codification redondante : FR-92012-B.BIL--------Z Boulogne-Billancourt Conservatoire National de Région
+inventaire - ERROR - Codification redondante : FR-92012-B.BIL-NDAMEV-X Boulogne-Billancourt église Notre-Dame
+inventaire - ERROR - Codification redondante : FR-92063-R.MAL--------Z Rueil-Malmaison Conservatoire National de Région
+inventaire - ERROR - Codification redondante : FR-92063-R.MAL--------Z Rueil-Malmaison Conservatoire National de Région
+inventaire - ERROR - Codification redondante : FR-92063-R.MAL--------Z Rueil-Malmaison Conservatoire National de Région
+inventaire - ERROR - Codification redondante : FR-94002-ALFOR-NDAMEV-X Alfortville église Notre-Dame
+inventaire - ERROR - Codification redondante : FR-94067-SSMAN-NDAMEV-X Saint-Mandé église Notre-Dame
+inventaire - ERROR - Codification redondante : FR-94067-SSMAN-NDAMEV-X Saint-Mandé église Notre-Dame
+inventaire - ERROR - Codification redondante : FR-94068-SSFOS--------X Saint-Maur-des-Fossés conservatoire national de région
+inventaire - ERROR - Codification redondante : FR-08105-C.MEZ-NDESPE-C Charleville-Mézières Basilique Notre-Dame-de-l'Esperance
+inventaire - ERROR - Codification redondante : FR-59328-LAMBE-STCALI-X Lambersart Église Saint-Calixte
+inventaire - ERROR - Codification redondante : FR-59183-DUNKE-NDCOEU-X Dunkerque Église Notre-Dame-du-Sacré-Coeur
+inventaire - ERROR - Codification redondante : FR-59378-M.BAR-COLLEG-X Marcq-en-Barœul Chapelle du Collège
+inventaire - ERROR - Codification redondante : FR-59183-DUNKE-STANTO-X Dunkerque Église Saint-Antoine-de-Padoue
+inventaire - ERROR - Codification redondante : FR-59183-DUNKE-STNICO-X Dunkerque Église Saint-Nicolas
+inventaire - ERROR - Codification redondante : FR-59183-DUNKE-ASSOMP-X Dunkerque Église de l'Assomption de Notre-Dame
+inventaire - ERROR - Codification redondante : FR-59183-DUNKE-STBERN-X Dunkerque Église Sainte-Bernadette
+inventaire - ERROR - Codification redondante : FR-59512-ROUBA-STMART-X Roubaix Église Saint-Martin
+inventaire - ERROR - Codification redondante : FR-59350-LILLE-STDENI-X Lille église Saint-Denis
