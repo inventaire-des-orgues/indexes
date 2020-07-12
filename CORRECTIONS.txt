@@ -137,18 +137,12 @@ inventaire - ERROR - Codification redondante : FR-67482-STRAS-STPIER-X Strasbour
 inventaire - ERROR - Codification redondante : FR-67482-STRAS-STPIER-X Strasbourg église Saint-PIERRE-LE-VIEUX CATHOLIQUE
 inventaire - ERROR - Codification redondante : FR-67482-STRAS-MAISON-X Strasbourg MAISON DE RETRAITE Saint-JOSEPH
 inventaire - ERROR - Codification redondante : FR-67525-WESTH-STMART-X Westhoffen église protestante Saint-MARTIN
-inventaire - ERROR - Codification redondante : FR-13055-MARSE-NDGARD-C Marseille basilique Notre-Dame de la Garde
-inventaire - ERROR - Codification redondante : FR-13055-MARSE-STTHER-X Marseille église Sainte-Thérèse de l'Enfant-Jésus
-inventaire - ERROR - Codification redondante : FR-17300-ROCHE-STJEAN-X La Rochelle église Sainte-Jeanne-d'Arc de Fétilly
-inventaire - ERROR - Codification redondante : FR-21231-DIJON--------X Dijon temple protestant
-inventaire - ERROR - Codification redondante : FR-79191-NIORT-STHILA-X Niort église Saint-Hilaire
-inventaire - ERROR - Codification redondante : FR-25056-BESAN--------C Besançon séminaire
-inventaire - ERROR - Codification redondante : FR-25056-BESAN--------X Besançon synagogue
-inventaire - ERROR - Codification redondante : FR-25403-MTLEB-MINIME-X Montlebon couvent de minimes, actuellement mairie, demeure, presbytère, église paroissiale de l'Assomption
+inventa
+inventaire - ERRO
+
 inventaire - ERROR - Codification redondante : FR-33063-BORDE-COLLEG-Z Bordeaux Chapelle du collège Saint-Joseph de Tivoli
-inventaire - ERROR - Codification redondante : FR-33063-BORDE-GRAND -X Bordeaux Grand Théâtre
-inventaire - ERROR - Codification redondante : FR-31555-TOULO-STFRAN-X Toulouse église Saint-François de Paule
-inventaire - ERROR - Codification redondante : FR-52448-SSDIZ-STMART-X Saint-Dizier église Saint-Martin (quartier de la Noue)
+
+
 inventaire - ERROR - Codification redondante : FR-70006-A.LYA-STMAUR-X Aillevillers-et-Lyaumont église Saint-Maurice
 inventaire - ERROR - Codification redondante : FR-74010-ANNEC-STJOSE-X Annecy basilique Saint-JOSEPH DES FINS
 inventaire - ERROR - Codification redondante : FR-68066-COLMA-STMART-X Colmar COLLEGIALE SainT-MARTIN
