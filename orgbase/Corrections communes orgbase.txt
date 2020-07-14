@@ -1,0 +1,193 @@
+# Correction de l'index extrait d'orgbase:
+4/ problèmes d'accents e mal orientés + ç
+
+
+Villiers-le-Sec pourquoi ? existe dans INSEE
+Chaumont-sur-Aire Meuse
+
+2/ E accentué -> E (Epinal, Eglise, etc.)
+
+3/ (Alsace), (Bas-Rhin), etc.
+1/ Belfort -> Territoire
+
+6/ Alpes-de-Haute
+7/ Alpes-Maritimes
+Saine-Maritime
+Charente-Maritime
+Côte d'or
+Côte d'ARmor
+loire atlantique
+Seine Sainte Denis
+Val de Marne
+
+5/ Quelques communes à nom rallongé par excès
+
+8/ Laval-Dieu, Ardennes
+9/ Les Hautes-Rivières, Ardennes
+10/ Ardèche : Le Cheylard, Le Teil d'Ardèche, Les Vans, Satilleu, Vernoux, Vidalon-lès -> Davézieux
+11/ Aube, Ricey-Bas, Ricey-Haut, Ricey-Haute-Rive
+12/ Aude, Lagreasse, 
+
+13/ Brinckheim ) Haut ou bas-Rhin ? (Nota : il y a 2 Buhl)
+Illkirch & Graffenstaden->Illkirch-Graffenstadenn
+Graufthal->Eschbourg
+HANHOFFEN->Bischwiller
+HERSBACH->Wisches
+Betschdorf;église protestante de Kuhlendorf,
+LA CLAQUETTE ?
+Strasbourg;église protestante de la Meinau;
+nehwiller?
+oberheim?
+Obermodern+Zutzendorf
+Offensheim
+Riedheim->Bouxwiller
+Stutzheim+Offenheim
+Weiterwiller ?
+Wibolsheim ?
+Zutzendorf
+
+14/ Russ (Alscae)...
+
+(Vosges)
+(Vienne)
+(Val-de-Marne)
+(Val-d'Oise)
+(...)
+
+HArmoniums...
+
+Aisonville;Aisonville-et-Bernoville;
+Charly sur Marne;Charly
+La Capelle-en-Thièrache;La Capelle;
+Liesse;Liesse-Notre-Dame;
+Saint-Michel-en-Thiérache;Saint-Michel
+
+Allier
+Souvigny-en-Bourbonnais;Souvigny
+
+
+Alpes-de-
+Barcellonette;Barcelonnette;
+Saint-Auban;Château-Arnoux-Saint-Auban;
+Saint-Martin-du-Var Église Saint-Roche; Alpes-Maritimes;
+
+
+Alpes Ma
+Golfe-Juan;Antibes
+Juan Les Pins;Antibes
+La Colle sur Loup;La Colle-sur-Loup
+Magagnosc;Grasse;
+Roquebrune-Carnolès;Roquebrune-Cap-Martin;
+Saint-Dalmas-de-Tende;Saint-Dalmas-le-Selvage; Perdu ?
+Sainte-Agnès (Alpes-Maritimes) ?
+Théoule;Théoule-sur-Mer;
+
+Ardennes
+
+Les Hautes Rivières;Les Hautes-Rivières;
+Le Cheylard ?
+Le Teil d'Ardèche;Teil (Le);
+Les Vans;Vans (Les);
+Pont d'Aubeas;Aubenas;
+Satilleu;Satillieu;
+Vernoux;Vernoux-en-Vivarais; (erreur dans l'index général)
+Vidalon-lès-Annonay;Davézieux;
+
+
+Aveyron
+Villefranche-du;de;
+
+Aude
+Fleury d'Aude;Fleury
+
+Yvelines, Bécon-les-Bruyères : HdS et non Y
+Buch-Sankt Margarethen : Autriche ?
+Châteaufort-en-Yvelines -> Châteaufort
+Clairefontaine;Clairefontaine-en-Yvelines
+Feux ??
+Le Port Marly;Le Port-Marly
+Port-Marly;Le Port-Marly
+Pontchartrain;Jouars-Pontchartrain; Perdu ???
+Saint-Lambert-des-Bois;Saint-Lambert;
+
+YONNE
+Brienon sur Armancon;Brienon-sur-Armançon;
+Crisenon ??
+Pierre qui Vire; Saint-Léger-Vauban
+
+VOSGES
+Clefcy;Ban-sur-Meurthe-Clefcy;
+Dompierre-du-Chemin : 35 !
+Entre-Deux-Eaux;Entre-deux-Eaux;
+Harold Hill	Église Saint-Evre ??
+Mortagne-sur-Gironde	Église Saint-Mathieu : 17, mais Mortagne dans les Vosges;
+Saint-Léonard-d'Aston	Église Saint-Pierre ==? Saint-Léonard (Vosges)	Église Saints-Pierre-et-Léonard
+
+VENDEE
+Dissais;Mareuil-sur-Lay-Dissais;
+Foussay-Payré ??
+Ile-d'Yeu;L'Ile-d'Yeu;
+Ile d'Yeu;L'Ile-d'Yeu;
+Les Sables d'Olonne;Les Sables-d'Olonne;
+Mareuil-sur-Lay;Mareuil-sur-Lay-Dissais;
+Saint-Philibert-du-Pont-Charrault;??
+Simon-la-Vineuse;??
+Thorigny-sur-Marne;77
+Vaires-sur-Marne;77
+
+
+22
+La Roche Derrien;La Roche-Derrien;
+Perror-Guirec;Perros-Guirec NB doublon !
+Pléneuf;Pléneuf-Val-André 
+Plounez;Paimpol (erreur dans index général)
+Saint-Nicolas de Pelen;Saint-Nicolas-du-Pélem;
+Yffignac;Yffiniac;
+
+Deux Sèvres
+Saint-Loup-sur-Thouet;Saint-Loup-Lamairé;?
+
+Dordogne
+Périgord;Saint-Cyprien
+
+
+HdS
+Bécon;Courbevoie;
+
+Vitry-sur-Seine
+Le Kremlin-Bicêtre
+La Varenne-Saint-Hilaire ??
+Villecresne ??
+
+Cergy-Pontoise
+Saint Gervais - Haute Savoie !
+Montreuil pas sous bois
+
+Craon : Poitou ou Mayenne ?
+
+29
+Poulgoazec = Chateauneuf du F ?
+Saint-Sauveur-du Faou ?
+
+E&L
+Avermes : ND du mont Carmel
+
+Isigny-sur-Mer Calvados ou Isigny-le-Buat Manche ? Pas dans le livre Manche
+
+http://www.leparisien.fr/espace-premium/val-de-marne-94/pourquoi-la-varenne-a-t-elle-son-code-postal-09-05-2013-2789581.php
+
+Bourgtheroulde;Bourgtheroulde-Infreville; Grand Bourgtheroulde;
+La Barre-en-Ouche;Mesnil-en-Ouche
+Rieux;Rieux-Volvestre;
+
+TODO près et non Près 
+TODO I sans majuscule
+
+Livré->Livré-la-Touche
+
+Saint-Léonard-d'Aston au Canada !
+Serre Chevalier ?
+
+Boën;Boën-sur-Lignon
+
+Les Trois Epis ?

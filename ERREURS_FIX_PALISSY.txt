@@ -1,0 +1,69 @@
+# Champ PROT vide
+
+PM65000880 Cathédrale de Tarbes, PROT est vide.
+
+# PM erronés
+
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <M2B000672> Bastia église SAINTE-CROIX (église de la confrérie Sainte-Croix)
+Le PM qui semble bon dans POP : PM2B000795
+
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <M34002326> Saint-Guilhem-le-Désert église abbatiale de Gellone
+PM34002326
+|- PM34001375
+|- PM34001376
+
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM3800025> Saint Antoine l'Abbaye Abbaye de Saint-Antoine
+PM38000992
+|- PM38000258
+|- PM38000257
+
+# Echec de la correspondance
+
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM02002211> Laon église Saint-Martin
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM06001283> Villefranche-sur-Mer église Saint-Michel
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM10001211> Méry-sur-Seine église Notre-Dame
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM10001547> Pont-Sainte-Marie église Notre-Dame
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM10002156> Sainte-Savine église Sainte-Savine
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM13001204> Aix-en-Provence église du Saint-Esprit
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM13000737> Marseille église Saint-Cannat - Les Prêcheurs
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM14000375> Honfleur Ancien hôpital
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM2B000846> Corte église Sainte-CROIX
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM2B000759> Oletta église Saint-André
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM2B000699> Zilia église Saint-Roch
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM21001665> Nuits-Saint-Georges église Saint-Symphorien
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM21002551> Vitteaux église Saint-Germain-d’Auxerre
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM91000067> Brunoy église Saint-Médard
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM27001832> Les Andelys église Notre-Dame
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM29000318> Goulven église Saint-Goulven
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM29000591> Morlaix église Saint-Melaine
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM33000878> Bordeaux Primatiale Saint-André
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM52000112> Blécourt église Notre-Dame de la Nativité
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM52000573> Joinville église Notre-Dame de la Nativité
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM37000652> Tours église Saint-Julien
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM39000463> Dole collégiale Notre-Dame
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM42000311> Montbrison COLLEGIALE NOTRE-DAME
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM45000596> Puiseaux église Notre-Dame
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM49001634> Chênehutte-Trèves-Cunault abbatiale Notre-Dame
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM51000955> Sacy église Saint-Rémi
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM55000368> Marville église Saint-Nicolas
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM55002678> Neuvilly-en-Argonne église Saints-Pierre-et-Paul
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM55000487> Rembercourt-Sommaisne église Saint-Louvent
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM55002681> Resson église Saint-Rémi
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM58000561> Clamecy collégiale Saint-Martin
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM60000133> Beauvais Cathédrale Saint-Pierre
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM60003064> Clermont église Saint-Samson
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM60003066> Compiègne église Saint-Jacques
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM60003992> Crèvecœur-le-Grand église Saint-Nicolas
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM75003803> Paris Lycée Victor Duruy
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM62000912> Isbergues église Sainte-Isbergue
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM76001166> Néville église Saint-Martin
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM76003026> Rouen église Saint-Maclou
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM76002075> Rouen église Saint-Maclou
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM76001500> Rouen église Saint-Vivien
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM80000158> Amiens église Saint-Leu
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM80001269> Saint-Valery-sur-Somme église Saint-Martin
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM81000002> Albi Cathédrale Sainte-Cécile
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM95000762> Villiers-le-Bel église Saint-Didier
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM89001593> Pontigny église Notre-Dame de l'Assomption
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM92000016> Bagneux église Saint-Hermeland
+inventaire - ERROR - Fixer Palissy : Un des PM de l'orgue est introuvable dans Palissy : <PM08000710> Givet église Notre-Dame
