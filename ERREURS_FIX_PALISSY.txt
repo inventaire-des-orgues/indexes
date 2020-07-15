@@ -1,3 +1,37 @@
+# Champ DPRO sans :
+ERROR PM57001112 2013/09/09 classé au titre objet
+ERROR PM88002033 2014/06/12 classé au titre objet
+ERROR PM57001111 2013/09/09 classé au titre objet
+ERROR PM57001114 2014/06/02 classé au titre objet
+ERROR PM68002079 2012/07/17 classé au titre objet
+ERROR PM67001885 2017/05/15 classé au titre objet
+ERROR PM57001115 2014/06/02 classé au titre objet
+ERROR PM68002082 2015/11/17 classé au titre objet
+ERROR PM68002085 2016/03/02 classé au titre objet
+ERROR PM88002030 2016/09/12 classé au titre objet
+ERROR PM68002083 2015/11/17 classé au titre objet
+ERROR PM68002080 2012/07/17 classé au titre objet
+ERROR PM88002031 2016/09/12 classé au titre objet
+ERROR PM68002086 2016/03/02 classé au titre objet
+ERROR PM67001886 2017/05/15 classé au titre objet
+ERROR PM88002034 2014/06/12 classé au titre objet
+ERROR PM67001884 2017/05/15 classé au titre objet
+ERROR PM88002032 2014/06/12 classé au titre objet
+ERROR PM57001110 2013/09/09 classé au titre objet
+ERROR PM68002078 2012/07/17 classé au titre objet
+ERROR PM68002084 2016/03/02 classé au titre objet
+ERROR PM88002029 2016/09/12 classé au titre objet
+ERROR PM57001113 2014/06/02 classé au titre objet
+ERROR PM68002081 2015/11/17 classé au titre objet
+
+# Champ DPRO vide
+ERROR PM31001452 
+ERROR PM65000880 
+ERROR PM31001451 
+
+# Champ DPRO avec mention non standard:
+classé MH
+
 # Champ PROT vide
 
 PM65000880 Cathédrale de Tarbes, PROT est vide.
