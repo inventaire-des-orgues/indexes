@@ -1,3 +1,12 @@
+# CODES INSEE absurdes
+
+inventaire.Palissy - CRITICAL - Code INSEE de Palissy absurde ! <object OrguePalissyPop2000 PM91000216 91 La Ferté-Alais 91323 église Notre-Dame orgue de tribune : tribune d'orgue ; buffet d'orgue>
+inventaire.Palissy - CRITICAL - Code INSEE de Palissy absurde ! <object OrguePalissyPop2000 PM59001990 59 Zermezeele 59690 église Saint-Omer orgue de tribune : partie instrumentale de l'orgue>
+
+
+# CODES INSEE périmés
+inventaire.Palissy - ERROR - Code INSEE de Palissy non valide <object OrguePalissyPop2000 PM74000626 74 Ferrières 74125 église orgue de tribune : partie instrumentale de l'orgue>
+A remplacer par le code INSEE et la commun : 74217
 
 
 ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Gournay-en-Bray Gournay-en-Bray collégiale Sainte-Hildevert (ou Saint-Hildebert) orgue orgue de tribune PM76003228   classé au titre objet>
