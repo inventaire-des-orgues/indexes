@@ -9,7 +9,7 @@ Erreur sur l'orgue FR-06083-MENTO-PENITE1-X : invalid literal for int() with bas
 PM06002740		Le champ REFP PM06000405 pointe vers une notice absente	non	{"type":"Polygon","coordinates":[]}	{"lat":0,"lon":0}			REFP_REF_NOT_FOUND;REFP_REF_NOT_FOUND										Vegezzi Carlo (facteur d'orgues)	Patrimoine mobilier (Palissy)	Inventaire des orgues en région Provence-Alpes-Côte-d'Azur, tome 3 : Orgues des Alpes de Haute-Provence, Hautes-Alpes, Alpes Maritimes (sous la direction de Philippe Latourelle), Aix-en-Provence : Edisud, 1989		facture d'orgue	Menton		mediatheque.patrimoine@culture.gouv.fr	non			© Monuments historiques	1894		orgue				Dimensions non prises.	2019-07-22	2010-09-01			dossier avec sous-dossier				1981/03/11 ; inscrit au titre objet ; 1982/10/26 : classé au titre objet	6	Alpes-Maritimes	église des Pénitents Noirs					liste objets classés MH	lieu d'exécution : Italie, Piémont, Turin		L'instrument est caractéristique de la nouvelle facture italienne après 1880, ouverte aux influences étrangères.						6083																								partie instrumentale de l'orgue;buffet d'orgue	orgue de tribune								1981/03/11 ; buffet et tribune inscrits au titre objet ; 1982/10/26 : partie instrumentale classés au titre objet			Monuments Historiques	inscrit au titre objet ; classé au titre objet				PM06000405;PM06002855	Provence-Alpes-Côte d'Azur					4e quart 19e siècle	19e s.			propriété de la commune			orgue de tribune						Menton
 
 > La date 1981/03/11 ; est suivie d'un point-virgule plutôt que deux-points.
-
+ACTION : deux points.
 ##
 LIGNE 1938
 PM33001121
@@ -17,11 +17,13 @@ PM33001121
 Erreur sur l'orgue FR-33063-BORDE-STCROI1-T : invalid literal for int() with base 10: 'liste 1840'
 DPRO commence par liste 1840, plutôt qu'une date.
 
-
+ACTION : liste 1840 Devient 1840
 ##
 PM33001124,PM33002556,PM33000349
 Erreur sur l'orgue FR-33063-BORDE-SSPLFR1-T : invalid literal for int() with base 10: ''
 ? a investiguer !
+
+Action : les trois PM ont été supprimés
 
 
 # CODES INSEE absurdes
