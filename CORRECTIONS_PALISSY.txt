@@ -6,10 +6,9 @@ PM06002740
 
 Erreur sur l'orgue FR-06083-MENTO-PENITE1-X : invalid literal for int() with base 10: ' inscrit au titre objet'
 
-PM06002740		Le champ REFP PM06000405 pointe vers une notice absente	non	{"type":"Polygon","coordinates":[]}	{"lat":0,"lon":0}			REFP_REF_NOT_FOUND;REFP_REF_NOT_FOUND										Vegezzi Carlo (facteur d'orgues)	Patrimoine mobilier (Palissy)	Inventaire des orgues en région Provence-Alpes-Côte-d'Azur, tome 3 : Orgues des Alpes de Haute-Provence, Hautes-Alpes, Alpes Maritimes (sous la direction de Philippe Latourelle), Aix-en-Provence : Edisud, 1989		facture d'orgue	Menton		mediatheque.patrimoine@culture.gouv.fr	non			© Monuments historiques	1894		orgue				Dimensions non prises.	2019-07-22	2010-09-01			dossier avec sous-dossier				1981/03/11 ; inscrit au titre objet ; 1982/10/26 : classé au titre objet	6	Alpes-Maritimes	église des Pénitents Noirs					liste objets classés MH	lieu d'exécution : Italie, Piémont, Turin		L'instrument est caractéristique de la nouvelle facture italienne après 1880, ouverte aux influences étrangères.						6083																								partie instrumentale de l'orgue;buffet d'orgue	orgue de tribune								1981/03/11 ; buffet et tribune inscrits au titre objet ; 1982/10/26 : partie instrumentale classés au titre objet			Monuments Historiques	inscrit au titre objet ; classé au titre objet				PM06000405;PM06002855	Provence-Alpes-Côte d'Azur					4e quart 19e siècle	19e s.			propriété de la commune			orgue de tribune						Menton
-
 > La date 1981/03/11 ; est suivie d'un point-virgule plutôt que deux-points.
 ACTION : deux points.
+
 ##
 LIGNE 1938
 PM33001121
@@ -37,17 +36,52 @@ inventaire.Palissy - ERROR - Code INSEE de Palissy non valide <object OrguePalis
 A remplacer par le code INSEE et la commun : 74217
 
 
-ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Gournay-en-Bray Gournay-en-Bray collégiale Sainte-Hildevert (ou Saint-Hildebert) orgue orgue de tribune PM76003228   classé au titre objet>
-   DEBUG : Palissy    : sainte-hildevert
-   DEBUG : Inventaire : saint-hildevert 
 
 
-ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Lammerville Lammerville église Notre-Dame orgue orgue PM76003246   classé au titre objet ; classé au titre objet ; inscrit au titre objet>
-   DEBUG : Palissy    : notre-dame
-   DEBUG : Inventaire : notre-dame-de-la-purification 
+# PAS DE NOM D'EDIFICE
+
+ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Carbonne Carbonne église orgue orgue de tribune PM31001464   classé au titre objet>
+   DEBUG : Palissy    : 
+   DEBUG : Inventaire : saint-laurent 
+
+
+ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Cazères Cazères église orgue orgue de tribune PM31001466   classé au titre objet>
+   DEBUG : Palissy    : 
+   DEBUG : Inventaire : assomption 
+
+
+ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Gaillac-Toulza Gaillac-Toulza église orgue orgue de tribune PM31001468   classé au titre objet>
+   DEBUG : Palissy    : 
+   DEBUG : Inventaire : saint-étienne 
+
+
+ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Pibrac Pibrac église orgue orgue de tribune PM31001472   classé au titre objet>
+   DEBUG : Palissy    : 
+   DEBUG : Inventaire : sainte-germaine 
+
+
+ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Rieumes Rieumes église orgue orgue de tribune PM31001477   classé au titre objet>
+   DEBUG : Palissy    : 
+   DEBUG : Inventaire : saint-gilles 
+
+
+ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Saint-Laurent-sur-Saône Saint-Laurent-sur-Saône église orgue orgue de choeur PM01000542   classé au titre objet>
+   DEBUG : Palissy    : 
+   DEBUG : Inventaire : saint-laurent 
+
+
+# LIBELLE
 
 ERROR : plus d'un édifice trouvé dans Palissy <object OrguePalissy Rouen Rouen église Saint-Vivien orgue tribune d'orgue ; partie instrumentale de l'orgue PM76003214   classé au titre objet ; classé au titre objet> vs. inventaire !
 tribune d'orgue ou orgue tribune ?
+
+
+
+# AUTRES
+
+ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Gournay-en-Bray Gournay-en-Bray collégiale Sainte-Hildevert (ou Saint-Hildebert) orgue orgue de tribune PM76003228   classé au titre objet>
+   DEBUG : Palissy    : sainte-hildevert
+   DEBUG : Inventaire : saint-hildevert 
 
 
 ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Saint-Valery-en-Caux Saint-Valery-en-Caux église Saint-Martin orgue orgue de tribune PM76003237   classé au titre objet>
@@ -87,6 +121,17 @@ ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object O
    DEBUG : Palissy    : 
    DEBUG : Inventaire : mixte 
 
+ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Lammerville Lammerville église Notre-Dame orgue orgue PM76003246   classé au titre objet ; classé au titre objet ; inscrit au titre objet>
+   DEBUG : Palissy    : notre-dame
+   DEBUG : Inventaire : notre-dame-de-la-purification 
+
+
+
+
+
+
+# AUTRES
+
 
 ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Dettwiller Dettwiller église simultanée Saint-Jacques-le-Majeur orgue orgue de tribune PM67001006   inscrit au titre objet ; classé au titre objet>
    DEBUG : Palissy    : simultanée-saint-jacques-le-majeur
@@ -102,36 +147,5 @@ ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object O
 ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Boulogne-sur-Gesse Boulogne-sur-Gesse église Sainte-Marie orgue orgue de tribune PM31001463   classé au titre objet>
    DEBUG : Palissy    : sainte-marie
    DEBUG : Inventaire : assomption 
-
-
-ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Carbonne Carbonne église orgue orgue de tribune PM31001464   classé au titre objet>
-   DEBUG : Palissy    : 
-   DEBUG : Inventaire : saint-laurent 
-
-
-ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Cazères Cazères église orgue orgue de tribune PM31001466   classé au titre objet>
-   DEBUG : Palissy    : 
-   DEBUG : Inventaire : assomption 
-
-
-ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Gaillac-Toulza Gaillac-Toulza église orgue orgue de tribune PM31001468   classé au titre objet>
-   DEBUG : Palissy    : 
-   DEBUG : Inventaire : saint-étienne 
-
-
-ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Pibrac Pibrac église orgue orgue de tribune PM31001472   classé au titre objet>
-   DEBUG : Palissy    : 
-   DEBUG : Inventaire : sainte-germaine 
-
-
-ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Rieumes Rieumes église orgue orgue de tribune PM31001477   classé au titre objet>
-   DEBUG : Palissy    : 
-   DEBUG : Inventaire : saint-gilles 
-
-
-ERROR : Echec de la recherche dans l'inventaire de cet orgue Palissy : <object OrguePalissy Saint-Laurent-sur-Saône Saint-Laurent-sur-Saône église orgue orgue de choeur PM01000542   classé au titre objet>
-   DEBUG : Palissy    : 
-   DEBUG : Inventaire : saint-laurent 
-
 
          
