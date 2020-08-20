@@ -1,6 +1,6 @@
 # FORMATAGES DPRO A VERIFIER
 
-##
+## CORRIGE PAR SERVANE
 LIGNE 1000
 PM06002740
 
@@ -9,7 +9,7 @@ Erreur sur l'orgue FR-06083-MENTO-PENITE1-X : invalid literal for int() with bas
 > La date 1981/03/11 ; est suivie d'un point-virgule plutôt que deux-points.
 ACTION : deux points.
 
-##
+## LAISSE TEL QUEL PAR SERVANE
 LIGNE 1938
 PM33001121
 
@@ -17,21 +17,25 @@ Erreur sur l'orgue FR-33063-BORDE-STCROI1-T : invalid literal for int() with bas
 DPRO commence par liste 1840, plutôt qu'une date.
 
 ACTION : liste 1840 Devient 1840
-##
+
+## CORRIGE PAR SERVANE
 PM33001124,PM33002556,PM33000349
 Erreur sur l'orgue FR-33063-BORDE-SSPLFR1-T : invalid literal for int() with base 10: ''
-? a investiguer !
 
-Action : les trois PM ont été supprimés
+> date à l'envers.
 
 
 # CODES INSEE absurdes
 
+## CORRIGE PAR SERVANE
 inventaire.Palissy - CRITICAL - Code INSEE de Palissy absurde ! <object OrguePalissyPop2000 PM91000216 91 La Ferté-Alais 91323 église Notre-Dame orgue de tribune : tribune d'orgue ; buffet d'orgue>
+
+## CORRIGE PAR SERVANE
 inventaire.Palissy - CRITICAL - Code INSEE de Palissy absurde ! <object OrguePalissyPop2000 PM59001990 59 Zermezeele 59690 église Saint-Omer orgue de tribune : partie instrumentale de l'orgue>
 
 
 # CODES INSEE périmés
+## CORRIGE PAR SERVANE
 inventaire.Palissy - ERROR - Code INSEE de Palissy non valide <object OrguePalissyPop2000 PM74000626 74 Ferrières 74125 église orgue de tribune : partie instrumentale de l'orgue>
 A remplacer par le code INSEE et la commun : 74217
 
