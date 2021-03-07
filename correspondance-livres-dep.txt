@@ -1,20 +1,20 @@
-21;\Bourgogne-Franche-Comté\Bourgogne\Bourgogne I\Bourgogne I--vectorise.pdf;Inventaire des orgues de Bourgogne -- Tome I
-58;\Bourgogne-Franche-Comté\Bourgogne\Bourgogne I\Bourgogne I--vectorise.pdf;Inventaire des orgues de Bourgogne -- Tome I
-71;\Bourgogne-Franche-Comté\Bourgogne\Bourgogne II\Bourgogne II--vectorise.pdf;Inventaire des orgues de Bourgogne -- Tome II
-89;\Bourgogne-Franche-Comté\Bourgogne\Bourgogne II\Bourgogne II--vectorise.pdf;Inventaire des orgues de Bourgogne -- Tome II
-25;\Bourgogne-Franche-Comté\Franche-Comté\25-Doubs\Doubs--vectorise.pdf;Orgues en Franche-Comté -- Tome I
-70;\Bourgogne-Franche-Comté\Franche-Comté\Tome2--vectorise.pdf;Orgues en Franche-Comté -- tome II
-39;\Bourgogne-Franche-Comté\Franche-Comté\Tome2--vectorise.pdf;Orgues en Franche-Comté -- tome II
-90;\Bourgogne-Franche-Comté\Franche-Comté\Tome2--vectorise.pdf;Orgues en Franche-Comté -- tome II
-29;\Bretagne\29-Finistère\Finistère--vectorise.pdf;Recensement
+21;\Bourgogne-Franche-ComtÃ©\Bourgogne\Bourgogne I\Bourgogne I--vectorise.pdf;Inventaire des orgues de Bourgogne -- Tome I
+58;\Bourgogne-Franche-ComtÃ©\Bourgogne\Bourgogne I\Bourgogne I--vectorise.pdf;Inventaire des orgues de Bourgogne -- Tome I
+71;\Bourgogne-Franche-ComtÃ©\Bourgogne\Bourgogne II\Bourgogne II--vectorise.pdf;Inventaire des orgues de Bourgogne -- Tome II
+89;\Bourgogne-Franche-ComtÃ©\Bourgogne\Bourgogne II\Bourgogne II--vectorise.pdf;Inventaire des orgues de Bourgogne -- Tome II
+25;\Bourgogne-Franche-ComtÃ©\Franche-ComtÃ©\25-Doubs\Doubs--vectorise.pdf;Orgues en Franche-ComtÃ© -- Tome I
+70;\Bourgogne-Franche-ComtÃ©\Franche-ComtÃ©\Tome2--vectorise.pdf;Orgues en Franche-ComtÃ© -- tome II
+39;\Bourgogne-Franche-ComtÃ©\Franche-ComtÃ©\Tome2--vectorise.pdf;Orgues en Franche-ComtÃ© -- tome II
+90;\Bourgogne-Franche-ComtÃ©\Franche-ComtÃ©\Tome2--vectorise.pdf;Orgues en Franche-ComtÃ© -- tome II
+29;\Bretagne\29-FinistÃ¨re\FinistÃ¨re--vectorise.pdf;Recensement
 56;\Bretagne\56-Morbihan\Morbihan--vectorise.pdf;Recensement
-22;\Bretagne\22-Côtes-d'Armor\Côtes-d'Armor--vectorise.pdf;Orgues en Côtes-d'Armor
+22;\Bretagne\22-CÃ´tes-d'Armor\CÃ´tes-d'Armor--vectorise.pdf;Orgues en CÃ´tes-d'Armor
 35;\Bretagne\35-Ille-et-Villaine\Ille-et-Villaine--vectorise.pdf;Orgues en Ille-et-Vilaine
 18;\Centre-Val-de-Loire\18-Cher\Cher-plus-Indre\Cher-plus-Indre--vectorise.pdf;Orgues du Berry 2003
 36;\Centre-Val-de-Loire\18-Cher\Cher-plus-Indre\Cher-plus-Indre--vectorise.pdf;Orgues du Berry 2003
 28;\Centre-Val-de-Loire\28-Eure-et-Loir\Eure-et-Loir--vectorise.pdf;Orgues d'Eure-et-Loir
 37;\Centre-Val-de-Loire\37-Indre-et-Loire\Indre-et-Loire--vectorise.pdf;Les Orgues d'Indre-et-Loire
-45;\Centre-Val-de-Loire\45-Loiret\Loiret--vectorise.pdf;Histoire de l'orgue en Orléanais et dans le Loiret
+45;\Centre-Val-de-Loire\45-Loiret\Loiret--vectorise.pdf;Histoire de l'orgue en OrlÃ©anais et dans le Loiret
 41;\Centre-Val-de-Loire\41-Loir-et-Cher\Loir-et-Cher--vectorise.pdf;Les Orgues de Loir-et-Cher
 2A;\Corse\Corse--vectorise.pdf;Etude par Philippe Bachet
 2B;\Corse\Corse--vectorise.pdf;Etude par Philippe Bachet
@@ -53,45 +53,45 @@
 47;\Nouvelle Aquitaine\Aquitaine\Aquitaine I Dordogne & Landes & Lot-et-Garonne--vectorise.pdf;Orgues en Aquitaine - volume I
 40;\Nouvelle Aquitaine\Aquitaine\Aquitaine I Dordogne & Landes & Lot-et-Garonne--vectorise.pdf;Orgues en Aquitaine - volume I
 33;\Nouvelle Aquitaine\Aquitaine\33-Gironde\Gironde--vectorise.pdf;Orgues en Aquitaine - Gironde
-64;\Nouvelle Aquitaine\Aquitaine\54-Pyrénées-Atlantiques\Pays Basque & Béarn--vectorise.pdf;Les orgues des Pyrénées-Atlantiques
+64;\Nouvelle Aquitaine\Aquitaine\54-PyrÃ©nÃ©es-Atlantiques\Pays Basque & BÃ©arn--vectorise.pdf;Les orgues des PyrÃ©nÃ©es-Atlantiques
 19,23,87;\Nouvelle Aquitaine\Limousin\Limousin--vectorise.pdf;Orgues en Limousin
 19,23,87;\Nouvelle Aquitaine\Limousin\Edisud\LimousinEdisud--vectorise.pdf
 16;\Nouvelle Aquitaine\Poitou-Charentes\Poitou-Charentes--vectorise.pdf;Orgues en Poitou-Charentes
 17;\Nouvelle Aquitaine\Poitou-Charentes\Poitou-Charentes--vectorise.pdf;Orgues en Poitou-Charentes
 79;\Nouvelle Aquitaine\Poitou-Charentes\Poitou-Charentes--vectorise.pdf;Orgues en Poitou-Charentes
 86;\Nouvelle Aquitaine\Poitou-Charentes\Poitou-Charentes--vectorise.pdf;Orgues en Poitou-Charentes
-11;\Occitanie\Languedoc-Rousillon\11-Aude\Aude-Pyrénées-Orientales--vectorise.pdf;Orgues en Languedoc-Rousillon -- tome 1
-30;\Occitanie\Languedoc-Rousillon\30-Gard\Gard-Lozère--vectorise.pdf;Orgues en Languedoc-Rousillon -- tome 2
-48;\Occitanie\Languedoc-Rousillon\30-Gard\Gard-Lozère--vectorise.pdf;Orgues en Languedoc-Rousillon -- tome 2
-34;\Occitanie\Languedoc-Rousillon\34-Hérault\Hérault--vectorise.pdf;Orgues en Languedoc-Rousillon -- tome 3
-09;\Occitanie\Midi-Pyrénées\09-Ariège\Ariege--vectorise.pdf;Orgues de l'Ariège
-12;\Occitanie\Midi-Pyrénées\12-Aveyron\Aveyron--vectorise.pdf;Orgues de l'Aveyron
-32;\Occitanie\Midi-Pyrénées\32-Gers\Gers--vectorise.pdf;Orgues du Gers
-46;\Occitanie\Midi-Pyrénées\46-Lot\Lot--vectorise.pdf;Orgues du Lot
-65;\Occitanie\Midi-Pyrénées\65-Hautes-Pyrénées\Hautes-Pyrénées--vectorise.pdf;Orgues des Hautes-Pyrénées
-81;\Occitanie\Midi-Pyrénées\81-Tarn\Tarn--vectorise.pdf;Orgues du Tarn
-82;\Occitanie\Midi-Pyrénées\82-Tarn-et-Garonne\Tarn-et-Garonne--vectorise.pdf;Orgues du Tarn-et-Garonne
+11;\Occitanie\Languedoc-Rousillon\11-Aude\Aude-PyrÃ©nÃ©es-Orientales--vectorise.pdf;Orgues en Languedoc-Rousillon -- tome 1
+30;\Occitanie\Languedoc-Rousillon\30-Gard\Gard-LozÃ¨re--vectorise.pdf;Orgues en Languedoc-Rousillon -- tome 2
+48;\Occitanie\Languedoc-Rousillon\30-Gard\Gard-LozÃ¨re--vectorise.pdf;Orgues en Languedoc-Rousillon -- tome 2
+34;\Occitanie\Languedoc-Rousillon\34-HÃ©rault\HÃ©rault--vectorise.pdf;Orgues en Languedoc-Rousillon -- tome 3
+09;\Occitanie\Midi-PyrÃ©nÃ©es\09-AriÃ¨ge\Ariege--vectorise.pdf;Orgues de l'AriÃ¨ge
+12;\Occitanie\Midi-PyrÃ©nÃ©es\12-Aveyron\Aveyron--vectorise.pdf;Orgues de l'Aveyron
+32;\Occitanie\Midi-PyrÃ©nÃ©es\32-Gers\Gers--vectorise.pdf;Orgues du Gers
+46;\Occitanie\Midi-PyrÃ©nÃ©es\46-Lot\Lot--vectorise.pdf;Orgues du Lot
+65;\Occitanie\Midi-PyrÃ©nÃ©es\65-Hautes-PyrÃ©nÃ©es\Hautes-PyrÃ©nÃ©es--vectorise.pdf;Orgues des Hautes-PyrÃ©nÃ©es
+81;\Occitanie\Midi-PyrÃ©nÃ©es\81-Tarn\Tarn--vectorise.pdf;Orgues du Tarn
+82;\Occitanie\Midi-PyrÃ©nÃ©es\82-Tarn-et-Garonne\Tarn-et-Garonne--vectorise.pdf;Orgues du Tarn-et-Garonne
 04;\PACA\04-Alpes de Haute-Provence\Alpes-de-Haute-Provence--vectorise.pdf;Orgues des Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes
 05;\PACA\04-Alpes de Haute-Provence\Alpes-de-Haute-Provence--vectorise.pdf;Orgues des Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes
 06;\PACA\04-Alpes de Haute-Provence\Alpes-de-Haute-Provence--vectorise.pdf;Orgues des Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes
-13;\PACA\13-Bouches-du-Rhône\Bouches-du-Rhône--vectorise.pdf;Orgues des Bouches-du-Rhône
+13;\PACA\13-Bouches-du-RhÃ´ne\Bouches-du-RhÃ´ne--vectorise.pdf;Orgues des Bouches-du-RhÃ´ne
 83;\PACA\84-Vaucluse\Var--Vaucluse--vectorise.pdf;Orgues du Var et du Vaucluse
 84;\PACA\84-Vaucluse\Var--Vaucluse--vectorise.pdf;Orgues du Var et du Vaucluse
 44;\Pays de la Loire\44-Loire-Atlantique\Loire-Atlantique--vectorise.pdf;Orgues en Pays-de-la-Loire -- tome 2
 49;\Pays de la Loire\49-Maine-et-Loire\Maine-et-Loire--vectorise.pdf;Orgues du Maine-et-Loire
 53;\Pays de la Loire\53-Mayenne\Mayenne--vectorise.pdf;Orgues en Pays-de-la-Loire -- tome 4 Mayenne
 72;\Pays de la Loire\72-Sarthe\Sarthe--vectorise.pdf;Ouvrage Sarthe
-85;\Pays de la Loire\85-Vendée\Vendée--vectorise.pdf;Orgues en Pays-de-la-Loire -- tome 3
-01;\Rhône-Alpes-Auvergne\01-Ain\Ain--vectorise.pdf;Ouvrage Ain
-07;\Rhône-Alpes-Auvergne\07-Ardèche\Ardèche--vectorise.pdf;Ouvrage Ardèche
-26;\Rhône-Alpes-Auvergne\26-Drôme\Drôme--vectorise.pdf;Inventaire Drôme
-38;\Rhône-Alpes-Auvergne\38-Isère\Isère--vectorise.pdf;Les Orgues de l'Isère
-42;\Rhône-Alpes-Auvergne\42-Loire\Loire--vectorise.pdf;Inventaire des orgues de la Loire
-69;\Rhône-Alpes-Auvergne\69-Rhône\69M-Lyon--vectorise.pdf;Les Orgues du Rhône (Lyon)
-69;\Rhône-Alpes-Auvergne\69-Rhône\69D-Rhône--vectorise.pdf;Les Orgues du Rhône (hors Lyon)
-73;\Rhône-Alpes-Auvergne\73-Savoie\Savoie--vectorise.pdf;Inventaire Savoie
-74;\Rhône-Alpes-Auvergne\74-Haute-Savoie\Haute-Savoie--vectorise.pdf;Inventaire Haute-Savoie
-03;\Rhône-Alpes-Auvergne\auvergne\Auvergne--vectorise.pdf;Orgues d'Auvergne
-15;\Rhône-Alpes-Auvergne\auvergne\Auvergne--vectorise.pdf;Orgues d'Auvergne
-43;\Rhône-Alpes-Auvergne\auvergne\Auvergne--vectorise.pdf;Orgues d'Auvergne
-63;\Rhône-Alpes-Auvergne\auvergne\Auvergne--vectorise.pdf;Orgues d'Auvergne
+85;\Pays de la Loire\85-VendÃ©e\VendÃ©e--vectorise.pdf;Orgues en Pays-de-la-Loire -- tome 3
+01;\RhÃ´ne-Alpes-Auvergne\01-Ain\Ain--vectorise.pdf;Ouvrage Ain
+07;\RhÃ´ne-Alpes-Auvergne\07-ArdÃ¨che\ArdÃ¨che--vectorise.pdf;Ouvrage ArdÃ¨che
+26;\RhÃ´ne-Alpes-Auvergne\26-DrÃ´me\DrÃ´me--vectorise.pdf;Inventaire DrÃ´me
+38;\RhÃ´ne-Alpes-Auvergne\38-IsÃ¨re\IsÃ¨re--vectorise.pdf;Les Orgues de l'IsÃ¨re
+42;\RhÃ´ne-Alpes-Auvergne\42-Loire\Loire--vectorise.pdf;Inventaire des orgues de la Loire
+69;\RhÃ´ne-Alpes-Auvergne\69-RhÃ´ne\69M-Lyon--vectorise.pdf;Les Orgues du RhÃ´ne (Lyon)
+69;\RhÃ´ne-Alpes-Auvergne\69-RhÃ´ne\69D-RhÃ´ne--vectorise.pdf;Les Orgues du RhÃ´ne (hors Lyon)
+73;\RhÃ´ne-Alpes-Auvergne\73-Savoie\Savoie--vectorise.pdf;Inventaire Savoie
+74;\RhÃ´ne-Alpes-Auvergne\74-Haute-Savoie\Haute-Savoie--vectorise.pdf;Inventaire Haute-Savoie
+03;\RhÃ´ne-Alpes-Auvergne\auvergne\Auvergne--vectorise.pdf;Orgues d'Auvergne
+15;\RhÃ´ne-Alpes-Auvergne\auvergne\Auvergne--vectorise.pdf;Orgues d'Auvergne
+43;\RhÃ´ne-Alpes-Auvergne\auvergne\Auvergne--vectorise.pdf;Orgues d'Auvergne
+63;\RhÃ´ne-Alpes-Auvergne\auvergne\Auvergne--vectorise.pdf;Orgues d'Auvergne
