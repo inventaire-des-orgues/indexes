@@ -84,3 +84,12 @@ L'index comprend :
 
 https://git.inventaire-des-orgues.fr/Gwilherm/python/src/master/README.md
 
+# Réparation de fichiers PDF avec Ghostscript
+
+```shell
+ gswin32c.exe ^
+  -o repaired.pdf ^
+  -sDEVICE=pdfwrite ^
+  -dPDFSETTINGS=/prepress ^
+   corrupted.pdf
+```
