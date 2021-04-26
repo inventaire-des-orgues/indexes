@@ -1,0 +1,59 @@
+{
+  "accessoires": [],
+  "adresse": null,
+  "ancienne_commune": null,
+  "buffet": null,
+  "claviers": [],
+  "code_departement": "01",
+  "code_insee": "01005",
+  "codification": "FR-01005-A_DOM-STMAUR1-X",
+  "commentaire_admin": null,
+  "commentaire_tuyauterie": null,
+  "commune": "Amb\u00e9rieux-en-Dombes",
+  "completion": 10,
+  "console": null,
+  "departement": "Ain",
+  "designation": "",
+  "diapason": null,
+  "edifice": "\u00e9glise Saint-Maurice",
+  "emplacement": null,
+  "entretien": [],
+  "etat": null,
+  "evenements": [],
+  "fichiers": [
+    {
+      "file": "http://inventaire-des-orgues.fr/media/01/FR-01005-A_DOM-STMAUR1-X/fichiers/FR-01005-A_DOM-STMAUR1-X.pdf",
+      "description": "[extrait] Ouvrage Ain"
+    }
+  ],
+  "images": [],
+  "is_polyphone": false,
+  "latitude": 45.997404,
+  "lien_reference": null,
+  "longitude": 4.90259,
+  "modified_date": "2020-09-09T16:49:03.325724",
+  "organisme": null,
+  "osm_type": null,
+  "osm_id": null,
+  "proprietaire": null,
+  "references_palissy": null,
+  "region": "Auvergne-Rh\u00f4ne-Alpes",
+  "resume": null,
+  "resume_composition": null,
+  "sommiers": null,
+  "soufflerie": null,
+  "sources": [
+    {
+      "type": "ouvrage",
+      "description": "Ouvrage Ain#10##",
+      "lien": "http://explore.inventaire-des-orgues.fr/"
+    }
+  ],
+  "temperament": null,
+  "tirage_commentaire": null,
+  "tirage_jeux": null,
+  "transmission_commentaire": null,
+  "transmission_notes": null,
+  "updated_by_user": null,
+  "url": "http://inventaire-des-orgues.fr/detail/orgue-amberieux-en-dombes-eglise-saint-maurice-fr-01005-a_dom-stmaur1-x/"
+}
