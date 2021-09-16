@@ -1,0 +1,19 @@
+ERROR : FR-33081-CADIL-SSBEMN-A est un code mal formatté pour l'orgue orgue église Saint-Blaise & Saint-Martin Cadillac
+ERROR : FR-07286-SSPIE-TEMPL1-X est un code mal formatté pour l'orgue orgue de tribune temple Saint-Pierreville
+ERROR : FR-66222-V_BAI-ANGLI1-X est un code mal formatté pour l'orgue orgue église anglicaine Vernet-les-Bains
+ERROR : FR-37231SSRAC-STPIER1-X est un code mal formatté pour l'orgue orgue église Saint-Paterne Saint-Paterne-Racan
+ERROR : FR-61494-TRUNN-SSPEPL est un code mal formatté pour l'orgue orgue de tribune église Saint-Pierre & Saint-Paul Trun
+ERROR : FR-14488-STSAMS1-X est un code mal formatté pour l'orgue orgue église Saint-Samson Ouistreham
+ERROR : FR-13071-P_MIR-STBLAI-X est un code mal formatté pour l'orgue orgue église Saint-Blaise Les Pennes-Mirabeau
+ERROR : FR-50218-Granville est un code mal formatté pour l'orgue orgue église Saint-Nicolas Granville
+ERROR : FR-95488-PRRLAY-STJBA1P-X est un code mal formatté pour l'orgue  église Saint-Jean-Baptiste Pierrelaye
+ERROR : FR-60491-PRRFON-STSUL1P-X est un code mal formatté pour l'orgue None église Saint-Sulpice Pierrefonds
+ERROR : FR-57543-PRRVIL-STMAR1T-X est un code mal formatté pour l'orgue  église Saint-Martin Pierrevillers
+ERROR : FR-56121-LORIE-NDNOUV-X est un code mal formatté pour l'orgue orgue de tribune église Notre-Dame de Bonne Nouvelle Lorient
+ERROR : FR-56003-ARRAD-STPIER-X est un code mal formatté pour l'orgue orgue de tribune église Saint-Pierre Arradon
+ERROR : FR-50341-MONTE-STJACQ-X est un code mal formatté pour l'orgue grand orgue église Saint-Jacques Montebourg
+ERROR : FR-50281-L.OUT-TRINIT-X est un code mal formatté pour l'orgue orgue de tribune église abbatiale de la Trinité La Lucerne-d'Outremer
+ERROR : FR-35251-SSAUB-STAUBI-X est un code mal formatté pour l'orgue Grand-Orgue église Saint-Aubin Saint-Aubin-d'Aubigné
+ERROR : FR-35238-RENNE-STSAUV-T est un code mal formatté pour l'orgue orgue de tribune basilique Saint-Sauveur Rennes
+ERROR : FR-14366-LISIE-CHAPEL-X est un code mal formatté pour l'orgue grand_orgue carmel Chapelle du Sacré-Cur et de l'Immaculée Lisieux
+ERROR : FR-14047-BAYEU-NDAME.-C est un code mal formatté pour l'orgue Orgue de tribune cathédrale Notre-Dame Bayeux
